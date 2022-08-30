@@ -1,7 +1,7 @@
 ---
 widget: about
-active: false
-author: admin
+active: true
+author: vincent
 widget_id: bio
 headless: true
 weight: 20
