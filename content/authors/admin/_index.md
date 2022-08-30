@@ -1,77 +1,56 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
+title: Vincent J. Major
+role: Assistant Professor
+avatar_filename: avatar.jpg
+bio: Vincent J. Major, PhD is an Assistant Professor at NYU Grossman School of
+  Medicine working on applied machine learning for healthcare using electronic
+  health record (EHR) data.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+  - Medical Informatics
+  - Applied Machine Learning
+  - Artificial Intelligence (AI)
+  - Operationalization of AI in Healthcare
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: /#contact
+  - display:
+      header: false
+    link: vincent.major@nyulangone.org
+    label: email
+    icon_pack: fas
+    icon: envelope
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/vincentjmajor
+    label: ""
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=pM1yxtsAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/vincentmajor
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Highlight the author in author lists? (true/false)
+    link: https://www.linkedin.com/in/vincentmajor/
+organizations:
+  - name: NYU Grossman School of Medicine
+    url: https://med.nyu.edu/
+education:
+  courses:
+    - course: PhD in Medical Informatics
+      institution: New York University
+      year: 2020
+    - course: ME in Bioengineering
+      institution: University of Canterbury, New Zealand
+      year: 2015
+    - course: BE(Hons) in Mechanical Engineering
+      institution: University of Canterbury, New Zealand
+      year: 2014
+email: ""
+superuser: true
 highlight_name: true
 ---
+Vincent J. Major, PhD, is an Assistant Professor of Population Health at NYU Grossman School of Medicine who works closely with NYU Langone Health’s [Predictive Analytics Unit](https://nyupau.github.io/). Vincent’s work focuses on applied machine learning for healthcare and involves the development, validation, and deployment of predictive models using electronic health record (EHR) data.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Vincent received his PhD from New York University in 2020 for [his thesis work](https://search.proquest.com/openview/91689540c8c89b2e5e4c98285df096b1/) using EHR data to develop machine learning models to estimate risk of death within 60 days of hospitalization to encourage end-of-life planning. For his Master’s research, Vincent studied the respiratory dynamics of critical care patients supported by invasive mechanical ventilation using mathematical modeling and signal processing methods.
