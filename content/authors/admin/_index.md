@@ -11,12 +11,9 @@ interests:
   - Artificial Intelligence (AI)
   - Operationalization of AI in Healthcare
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - display:
       header: false
-    link: vincent.major@nyulangone.org
+    link: mailto:vincent.major@nyulangone.org
     label: email
     icon_pack: fas
     icon: envelope
