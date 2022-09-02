@@ -1,6 +1,7 @@
 ---
 title: Reading SEER fixed width files
 date: 2018-11-14T19:15:13.501Z
+lastmod: 2018-11-14T19:15:13.501Z
 draft: false
 featured: true
 authors:

@@ -73,3 +73,18 @@ sitemap:
   _merge: deep
 minify:
   _merge: deep
+
+# vjm change to have manually set dates take priority over last modified
+frontmatter:
+  date:
+  - date
+  - publishDate
+  - lastmod
+  lastmod:
+  - lastmod
+  - :git
+  - date
+  - publishDate
+  publishDate:
+  - publishDate
+  - date

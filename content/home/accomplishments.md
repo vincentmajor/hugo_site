@@ -10,7 +10,8 @@ headless: true
 weight: 350
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplishments'
+#title: 'Accomplish&shyments'
+title: 'Teaching + Editorial'
 subtitle:
 
 # Date format
@@ -29,7 +30,7 @@ item:
     url: ''
     certificate_url: ''
     date_start: '2020-07-01'
-    date_end: '2021-08-03'
+    date_end: '2022-08-03'
     description: |2-
         Course Director for the *Introduction to Medical Bioinformatics and Computing* course as part of the [INTREPID program](https://med.nyu.edu/departments-institutes/clinical-translational-science/education/certificate-training-programs/intensive-program-clinical-research-methods).
         
