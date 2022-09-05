@@ -1,5 +1,5 @@
 ---
-title: "Using Nebula to Schedule Imaging Without Pre-Authorization"
+title: "Using Nebula to Schedule Imaging Without Pre-Authorization"
 event: XGM 2022
 event_url: "https://xgm.epic.com/"
 
