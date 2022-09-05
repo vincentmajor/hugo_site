@@ -51,7 +51,7 @@ tags:
 - Machine Learning 
 - COVID-19
 - Prospective Validation
-featured: true
+featured: false
 
 links:
 - name: "PMC"
