@@ -12,7 +12,7 @@ main:
     weight: 20
   - name: Experience
     url: '#experience'
-    weight: 25
+    weight: 30
 #  - name: Projects
 #    url: '#projects'
 #    weight: 30

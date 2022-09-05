@@ -4,7 +4,7 @@ active: true
 author: vincent
 widget_id: bio
 headless: true
-weight: 20
+weight: 10
 title: Biography
 design:
   columns: "1"
