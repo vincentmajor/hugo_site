@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Vincent Major # Website name
+title: Vincent J. Major # Website name
 baseURL: 'https://vincentmajor.com/' # Website URL
 
 ############################
@@ -82,8 +82,8 @@ frontmatter:
   - lastmod
   lastmod:
   - lastmod
-  - :git
   - date
+  - :git
   - publishDate
   publishDate:
   - publishDate
