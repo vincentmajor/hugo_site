@@ -1,5 +1,5 @@
 ---
-title: (Robust) Medical AI is Tough: Data Definitions Evolve with Time
+title: "(Robust) Medical AI is Tough: Data Definitions Evolve with Time"
 date: 2022-08-24T13:00:00Z
 draft: false
 featured: false
